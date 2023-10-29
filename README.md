@@ -4,7 +4,8 @@
 
 
 **House Grade Prediction**
-**Find The Best House:** The 1234ABC Realtors Limited is in great losses due to the automation in the industry and the new innovations and players in the real estate market. So they have hired a Data Science Team to give them a business solution so as to help regain their place in the market. In order to do that, the group thought of a compiled way of grading the houses in order from A to E with respect to different aspects in mind. This would help them to rate the houses as well as different areas as well. So gear up and help the realtors get back their place in the market.
+**Find The Best House:** 
+The 1234ABC Realtors Limited is in great losses due to the automation in the industry and the new innovations and players in the real estate market. So they have hired a Data Science Team to give them a business solution so as to help regain their place in the market. In order to do that, the group thought of a compiled way of grading the houses in order from A to E with respect to different aspects in mind. This would help them to rate the houses as well as different areas as well. So gear up and help the realtors get back their place in the market.
 
 Objective of the problem: The objective of the problem is to predict values “Grade” attribute from the given features of the Test data. Please view the sample submission file to understand how the submission file is to be written. Please upload the submission file to get a score.
 
