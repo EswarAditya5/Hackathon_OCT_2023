@@ -38,11 +38,11 @@
 **Submission Limit:** The submission limit for each team for each question is 15. Please note that individual submission limits will be shown to individuals. Though individual submissions are shown to individuals, if any other teammate makes a submission, the team submission counter would increase.<br>
 
 
-I got a score for SVC (Support Vector Machine) <br>
+I got the highest score in GBM (Gradient Boosting Machine)<br>
 
 | Target Score | Reached Score |
 |--|--|
-| 100 | 90.09 |
+| 100 | 94.09 |
 
 
 
